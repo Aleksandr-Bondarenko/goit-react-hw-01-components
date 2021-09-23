@@ -1,0 +1,27 @@
+.table {
+  margin: 15px auto 0;
+  background-color: var(--primary-bgc);
+}
+
+.head {
+  background-color: var(--primary-f-color);
+  font-size: var(--title-f-size);
+  color: var(--primary-bgc);
+}
+
+.bodyRow {
+  text-align: center;
+  color: var(--primary-bgc);
+}
+
+.bodyRow:nth-child(odd) {
+  background-color: var(--secondary-f-color);
+}
+
+.bodyRow:nth-child(even) {
+  background-color: var(--secondary-bgc);
+}
+
+.bodyRow td {
+  padding: 5px 30px;
+}

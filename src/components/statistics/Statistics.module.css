@@ -1,0 +1,34 @@
+.statSection {
+  width: var(--box-width);
+  margin: 0 auto;
+  background-color: var(--primary-bgc);
+}
+
+.statTitle {
+  font-size: var(--title-f-size);
+  color: var(--primary-f-color);
+  padding: 10px 5px;
+  text-align: center;
+}
+
+.statList {
+  display: flex;
+  color: var(--primary-bgc);
+  /* background-color: grey; */
+}
+
+.statItem {
+  display: flex;
+  flex-direction: column;
+  padding: 5px;
+  width: calc(var(--box-width) / 5);
+  align-items: center;
+}
+
+.statName {
+  font-size: var(--primary-f-size);
+}
+
+.statValue {
+  font-size: var(--title-f-size);
+}

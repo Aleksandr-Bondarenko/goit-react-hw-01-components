@@ -1,31 +1,31 @@
 [
   {
-    "avatar": "https://cdn-icons-png.flaticon.com/512/1998/1998592.png",
-    "name": "Mango",
+    "avatar": "https://scontent.fdnk2-1.fna.fbcdn.net/v/t1.18169-9/400951_171779106317044_766813798_n.jpg?_nc_cat=107&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=iU2ZQNkIDJcAX_XmeEh&tn=nPXSkqHjfqNiG9Q6&_nc_ht=scontent.fdnk2-1.fna&oh=c62cc4fd351fed3c10223b635479e1a0&oe=6171B495",
+    "name": "Helen",
     "isOnline": true,
     "id": 1812
   },
   {
-    "avatar": "https://cdn-icons-png.flaticon.com/512/616/616438.png",
-    "name": "Kiwi",
+    "avatar": "https://scontent.fdnk2-1.fna.fbcdn.net/v/t31.18172-8/18595544_423147204723480_4428357665318672349_o.jpg?_nc_cat=101&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=Z03jwZ8Zvw8AX-h_MWO&_nc_ht=scontent.fdnk2-1.fna&oh=d13bc83fe6eb9e85a84c1893ed37a30f&oe=61726B86",
+    "name": "Andrey",
     "isOnline": false,
     "id": 1137
   },
   {
-    "avatar": "https://cdn-icons-png.flaticon.com/512/1623/1623681.png",
-    "name": "Ajax",
+    "avatar": "https://scontent.fdnk2-1.fna.fbcdn.net/v/t1.18169-9/558461_215015091960106_1685400108_n.jpg?_nc_cat=104&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=u8yiOppXVfcAX8Ll9GQ&_nc_ht=scontent.fdnk2-1.fna&oh=3ef17020ef5cfef98f500f21db0c63dc&oe=61719AD6",
+    "name": "Bred",
     "isOnline": true,
     "id": 1213
   },
   {
-    "avatar": "https://cdn-icons-png.flaticon.com/512/2977/2977285.png",
-    "name": "Jay",
+    "avatar": "https://scontent.fdnk2-1.fna.fbcdn.net/v/t1.6435-9/127081780_890583145014274_2276463859417201693_n.jpg?_nc_cat=1&ccb=1-5&_nc_sid=8631f5&_nc_ohc=UfcdW3HzBkEAX9obx_K&_nc_ht=scontent.fdnk2-1.fna&oh=e8d720dec386850fbd6b9d0c35972763&oe=61737CB7",
+    "name": "Arny",
     "isOnline": true,
     "id": 1714
   },
   {
-    "avatar": "https://cdn-icons-png.flaticon.com/512/1998/1998749.png",
-    "name": "Poly",
+    "avatar": "https://scontent.fdnk2-1.fna.fbcdn.net/v/t1.6435-9/146466734_2719414665055623_3754090160585202417_n.jpg?_nc_cat=110&ccb=1-5&_nc_sid=8631f5&_nc_ohc=YqBgIqQFFJYAX_JrxkT&_nc_ht=scontent.fdnk2-1.fna&oh=8ad6419442e8abe99022b6438f1f0057&oe=61739D23",
+    "name": "Volodia",
     "isOnline": false,
     "id": 1284
   }
